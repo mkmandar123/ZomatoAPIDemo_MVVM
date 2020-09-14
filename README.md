@@ -1,8 +1,8 @@
 
-<h1 align="center">Yue SHG App</h1></br>
+<h1 align="center">Zomato API Demo App</h1></br>
 
 <p align="center">
-:eyeglasses: Yue App for Self Help Groups
+:eyeglasses: Zomato API App for searching local restaurants
 </p>
 <br>
 
